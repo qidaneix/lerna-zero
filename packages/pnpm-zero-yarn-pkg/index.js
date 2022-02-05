@@ -1,7 +1,11 @@
-import react from "react";
-import jsToken from "js-token";
+import React from "react";
+import JSON5 from "json5";
 
 export const App = () => {
-  console.log(typeof jsToken.matchToToken);
-  return <div>This is App</div>;
+  return (
+    <>
+      <div>This is Apppppp</div>
+      <div>{JSON5.stringify({ sb: "sb" })}</div>
+    </>
+  );
 };
