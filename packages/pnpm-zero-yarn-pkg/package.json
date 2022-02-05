@@ -1,11 +1,17 @@
 {
   "name": "pnpm-zero-yarn-pkg",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "module": "index.js",
   "main": "index.js",
   "author": "jin.xiao <jin.xiao@shopee.com>",
   "license": "MIT",
   "dependencies": {
+    "dayjs": "^1.10.7",
     "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.0",
+    "vite": "^2.7.13",
+    "webpack": "^5.68.0"
   }
 }
