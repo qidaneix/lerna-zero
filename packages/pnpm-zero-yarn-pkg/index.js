@@ -1,5 +1,5 @@
 import React from "react";
-import { useSum } from "hooks";
+import { useSum } from "pnpm-zero-hooks";
 
 export const App = (props) => {
   const tsum = useSum(props.arr);

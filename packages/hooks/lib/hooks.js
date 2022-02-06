@@ -1,4 +1,4 @@
-import { sum } from "utils";
+import { sum } from "pnpm-zero-utils";
 import { useEffect, useState } from "react";
 
 export function useSum(arr) {
