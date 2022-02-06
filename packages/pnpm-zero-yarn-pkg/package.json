@@ -1,6 +1,6 @@
 {
   "name": "pnpm-zero-yarn-pkg",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "module": "index.js",
   "main": "index.js",
   "author": "jin.xiao <jin.xiao@shopee.com>",
@@ -9,7 +9,7 @@
     "dayjs": "^1.10.7",
     "infrad": "^4.18.4",
     "lodash": "^4.17.21",
-    "pnpm-zero-hooks": "^1.0.2",
+    "pnpm-zero-hooks": "^1.0.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
