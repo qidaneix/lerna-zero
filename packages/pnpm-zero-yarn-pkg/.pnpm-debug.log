@@ -1,0 +1,14 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "code": "ERR_PNPM_LINK_BAD_PARAMS",
+    "err": {
+      "name": "pnpm",
+      "message": "You must provide a parameter",
+      "code": "ERR_PNPM_LINK_BAD_PARAMS",
+      "stack": "pnpm: You must provide a parameter\n    at Object.handler (/Users/xiaojin/Library/pnpm/nodejs/16.13.1/pnpm-global/5/node_modules/.pnpm/pnpm@6.29.1/node_modules/pnpm/dist/pnpm.cjs:122557:17)\n    at async /Users/xiaojin/Library/pnpm/nodejs/16.13.1/pnpm-global/5/node_modules/.pnpm/pnpm@6.29.1/node_modules/pnpm/dist/pnpm.cjs:182016:21\n    at async run (/Users/xiaojin/Library/pnpm/nodejs/16.13.1/pnpm-global/5/node_modules/.pnpm/pnpm@6.29.1/node_modules/pnpm/dist/pnpm.cjs:181990:34)\n    at async runPnpm (/Users/xiaojin/Library/pnpm/nodejs/16.13.1/pnpm-global/5/node_modules/.pnpm/pnpm@6.29.1/node_modules/pnpm/dist/pnpm.cjs:182209:5)\n    at async /Users/xiaojin/Library/pnpm/nodejs/16.13.1/pnpm-global/5/node_modules/.pnpm/pnpm@6.29.1/node_modules/pnpm/dist/pnpm.cjs:182201:7"
+    }
+  }
+}
