@@ -1,6 +1,6 @@
 {
   "name": "pnpm-zero-yarn-pkg",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "module": "index.js",
   "main": "index.js",
   "author": "jin.xiao <jin.xiao@shopee.com>",
