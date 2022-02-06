@@ -1,0 +1,25 @@
+{
+  "name": "pnpm-zero-hooks",
+  "version": "1.0.0",
+  "description": "react hooks",
+  "author": "jin.xiao <jin.xiao@shopee.com>",
+  "homepage": "",
+  "license": "ISC",
+  "module": "lib/hooks.js",
+  "main": "lib/hooks.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "react": "^17.0.2",
+    "utils": "^1.0.0"
+  }
+}

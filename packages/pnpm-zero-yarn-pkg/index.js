@@ -1,11 +1,14 @@
 import React from "react";
-import JSON5 from "json5";
+import { useSum } from "hooks";
 
-export const App = () => {
+export const App = (props) => {
+  const tsum = useSum(props.arr);
+  console.log(useSum(props.arr));
+
   return (
     <>
       <div>This is Apppppp</div>
-      <div>{JSON5.stringify({ sb: "sb" })}</div>
+      <div>sum: {tsum}</div>
     </>
   );
 };
