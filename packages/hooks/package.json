@@ -1,6 +1,6 @@
 {
   "name": "pnpm-zero-hooks",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "react hooks",
   "author": "jin.xiao <jin.xiao@shopee.com>",
   "homepage": "",
@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.21",
-    "react": "^17.0.2",
-    "pnpm-zero-utils": "^2.0.0"
+    "pnpm-zero-utils": "^2.0.0",
+    "react": "^17.0.2"
   }
 }
